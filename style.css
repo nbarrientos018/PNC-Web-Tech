@@ -6,7 +6,7 @@ color: rgb(221, 212, 212);
 }
 
 .main-header .showcase {
-    padding-top: 50px;
+    padding-top: 100px;
     padding-bottom: 50px;
 
 }
@@ -49,9 +49,4 @@ color: rgb(221, 212, 212);
     height: 400px; /* Set your desired height here */
     background-color: rgb(223, 220, 217);
   }
-
-
-.section{
-    margin-top: 100px;
-}
 
